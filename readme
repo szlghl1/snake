@@ -1,0 +1,5 @@
+It is a small game "snake".
+Based on pthread and c++11. Please turn on these two option when you compile.
+Tested on MinGW, windows 10.
+Programme to run on windows.
+Press space to pause or resume, arrow key to control.
